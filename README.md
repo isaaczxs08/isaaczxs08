@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E97F7&center=true&vcenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+isaac!+👋;Desenvolvedor+Software;Entusiasta+de+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E97F7&center=true&vcenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Seu+Nome!+👋;Desenvolvedor+Software;Entusiasta+de+Tecnologia" alt="Typing SVG" />
 </div>
 
 <br />
@@ -9,7 +9,7 @@
 - 🔭 Atualmente trabalhando/estudando em **[Seu Projeto ou Foco Atual]**
 - 🌱 Aprendendo mais sobre **[Tecnologia/Framework atual]**
 - 💬 Pergunte-me sobre **[Sua Especialidade]**
-- 📫 Como me encontrar: **SEU_EMAIL@EMAIL.COM**
+- 📫 Como me encontrar: **ISAAC.L.NASCIMENTO@BA.ESTUDANTE.SENAI.BR**
 
 ---
 
