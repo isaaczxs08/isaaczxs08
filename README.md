@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E97F7&center=true&vcenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+isaac!+👋;Desenvolvedor+Software;Entusiasta+de+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E97F7&center=true&vcenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+isaaczxs08!+👋;Desenvolvedor+Software;Entusiasta+de+Tecnologia" alt="Typing SVG" />
 </div>
 
 <br />
@@ -30,12 +30,12 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide=html,css"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaaczxs08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaaczxs08&layout=compact&theme=tokyonight&hide=html,css"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaaczxs08&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
